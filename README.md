@@ -1,4 +1,4 @@
-# Taller de Posicionamiento en CSS
+# Taller de Float en CSS
 
 ![Resultado](/images/result.png)
 
